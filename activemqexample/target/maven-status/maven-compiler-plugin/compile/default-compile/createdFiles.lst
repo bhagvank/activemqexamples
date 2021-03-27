@@ -1,0 +1,5 @@
+org/activemqexamples/jms/JMSMessageReceiver.class
+org/activemqexamples/jms/JMSMessageSender.class
+org/activemqexamples/jms/JMSMessageSenderConfig.class
+org/activemqexamples/jms/JMSMessageReceiverConfig.class
+org/activemqexamples/ActiveMQExample.class
